@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Captain
-- 👀 interested in JavaSC and Python
+- 👋 name = Arya
+- 👀 interested on (Coding)
 
 <!---
 CaptainLord-java/CaptainLord-java is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
